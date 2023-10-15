@@ -1,0 +1,1 @@
+to show a initial value 0 we set it in the usestate(0)
